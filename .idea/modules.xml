@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WebviewPullRefresh.iml" filepath="$PROJECT_DIR$/WebviewPullRefresh.iml" />
+      <module fileurl="file://E:\GITHUB\WebviewPullRefresh\WebviewPullRefresh.iml" filepath="E:\GITHUB\WebviewPullRefresh\WebviewPullRefresh.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\GITHUB\WebviewPullRefresh\app\app.iml" filepath="E:\GITHUB\WebviewPullRefresh\app\app.iml" />
     </modules>
   </component>
 </project>
